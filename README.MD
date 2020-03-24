@@ -1,4 +1,4 @@
-<center>## Welcome to Kynligbein's Roll-for-init repo!</center>
+## Welcome to Kynligbein's Roll-for-init repo!
 
 I am a student of CCAC's Data Analytics Technology program.  
 This is my personal repository used to hold any additional learning projects for:
