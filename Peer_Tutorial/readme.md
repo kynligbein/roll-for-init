@@ -4,10 +4,10 @@ Lambdas are anonymous functions in Python (meaning they are not named themselves
 *Note that since Lambda functions are expressions, they can be named directly. For example, a lambda to add two numbers could be written as:  
 
 addingOne = lambda x: x+1  
-&nbsp;&nbsp;&nbsp;&nbsp;addingOne(2)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;addingOne(2)
 
 This would return the result as "3". This is the equivalent to otherwise writing the function as:  
 
 def addingOne(x):  
-&nbsp;&nbsp;&nbsp;&nbsp;return x+1  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;return x+1  
 This effectively takes simple functions and reduces them to a single line
