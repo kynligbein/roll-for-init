@@ -1,0 +1,7 @@
+Dallas - Captain
+Kane - Executive Officer
+Ellen - Warrant Officer
+Ash - Science Officer
+Lambert - Navigator
+Parker - Chief Engineer
+Brett - Engineering Tech

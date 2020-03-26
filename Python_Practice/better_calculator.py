@@ -10,4 +10,19 @@ Tutorial uses PyCharm to code, I am using Spyder.
 @author: kynligbein
 """
 
-#Better calculator - video stopped at 2:00:39
+
+num1 = float(input("Enter first number: "))
+op = input("Enter operator (+ , - , *, or /): ")
+num2 = float(input("Enter second number: "))
+
+if op == "+":
+    print(num1 + num2)
+elif op == "-":
+    print(num1 - num2)
+elif op == "/":
+    print(num1 / num2)
+elif op == "*":
+    print(num1 * num2)
+else:
+    print("Invalid operator")
+
