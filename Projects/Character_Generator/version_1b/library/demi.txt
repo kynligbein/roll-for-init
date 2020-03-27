@@ -1,0 +1,3 @@
+Sub-class: Demimonde - The thief loses the ability to climb sheer surfaces, and 
+finding and removing traps. In their place they now gain a retainer at 4th level
+and 6th level as well as starting the game with double the normal amount of money.

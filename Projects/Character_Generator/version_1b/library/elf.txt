@@ -1,0 +1,3 @@
+Special Abilities: Elves can see in the dark up to 60'. They automatically find 
+any secret or hidden doors within 5' that they pass. They are immune to paralysis.
+Elves always have access to a special "Heartspell" regardless of class.

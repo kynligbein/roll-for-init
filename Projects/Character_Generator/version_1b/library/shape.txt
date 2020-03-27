@@ -1,0 +1,8 @@
+Bear
+Wolf
+Fox
+Eagle
+Lion
+Hyena
+Vulture
+Gorilla

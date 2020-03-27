@@ -1,0 +1,4 @@
+Sub-class: Odalisque - The Odalisque (Called a 'Rakka' if male.) is a seductive
+dancer with the ability to hypnotize audiences. Anyone viewing an Odalisques' 
+dance must pass a Will saving throw of stare fascinated, ignoring everything but 
+mortal danger. At 6th level the Odalisque can cast Cantraps as a 1st level Magus.

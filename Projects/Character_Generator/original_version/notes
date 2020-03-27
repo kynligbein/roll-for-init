@@ -1,0 +1,20 @@
+class features
+race features
+stat modifiers
+option choose or random gen
+ac/hp/saves
+
+
+strength = random.randint(3,18)
+str_mod = ()
+
+if strength in range (3,9):
+    str_mod = ("Effete!")
+elif strength in range (9,13):
+    str_mod = ("Average")
+elif strength in range (13,19):
+    str_mod = ("Mighty!")
+else:
+    print("Something is wrong with this stat!")
+    
+print("STR:",strength,str_mod)

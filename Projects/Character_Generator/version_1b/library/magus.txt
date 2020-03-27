@@ -1,0 +1,6 @@
+The Magus is able to cast Cantraps. 
+They may only prepare cantraps they 
+have learned and copied from their 
+grimiores. 
+Magi start with three first level 
+spells in their grimiores.

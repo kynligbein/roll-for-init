@@ -1,0 +1,5 @@
+Human
+Elf
+Grotesque
+Satyr
+Dwarf
